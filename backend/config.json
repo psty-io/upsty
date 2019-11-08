@@ -1,0 +1,8 @@
+{
+    "AWS_ACCESS_KEY": "",
+    "AWS_SECRET_KEY": "",
+    "AWS_ENDPOINT_URL": "",
+    "S3_UPLOAD_DIR": "",
+    "S3_BUCKET_NAME": "",
+    "BASE_URL": ""
+}
