@@ -22,4 +22,4 @@ Written by [@MaxBridgland] 2019
 
 # License
 
-View Here
+View [Here](https://github.com/psty-io/upsty/blob/master/LICENSE)
