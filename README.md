@@ -12,6 +12,11 @@ Upsty is a tool that is inspired by https://transfer.sh which used to be nice to
 
 The backend folder contains the Flask application running the service. This is a simple single file Flask app that utilizes a config file in `backend/config.json`. Before starting development make sure to set up all the information inside of that config file.
 
+### Usage:
+
+```
+curl --upload-file <filepath> https://up.psty.io/<filename>
+```
 
 ### Requirements:
 
